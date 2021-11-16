@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Half-Ape
-- 👀 I’m interested in solving difficult problems
-- 🌱 I’m currently learning how to solve difficult problems
-- 💞️ I’m looking to collaborate on solving difficult problems
-- 📫 How to reach me: give me a banana
+- 👋 Hi, I’m @space-ape
+- 👀 I’m interested in computational mathematics: optimizaing NP-hard problems to near-optimality
+- 🌱 I’m currently learning quantum computing, machine learning, with some programming languages: c++, julia
+- 💞️ I’m looking to collaborate on making tutorials on solving financial problems and decision making.
+- 📫 How to reach me: throw me a banana or a kiwi.
 
 <!---
-Half-Ape/Half-Ape is a ✨ special ✨ repository because I require special needs.
+space-ape/space-ape is a ✨ special ✨ repository because I require special needs.
 --->
